@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Sean'ShowReel',
+  name: 'Sean-ShowReel',
   domain: 'https://swift-seer-d6c.notion.site/Sean-Sue-Design-Portfolio-3bd590ed65f2499f8908e118009a7235',
   author: 'Sean-Sue',
 
